@@ -1,9 +1,0 @@
-C:\Users\KRISTIAN\source\repos\TvProgram\TvProgram.Models\bin\Debug\netcoreapp3.1\TvProgram.Models.deps.json
-C:\Users\KRISTIAN\source\repos\TvProgram\TvProgram.Models\bin\Debug\netcoreapp3.1\TvProgram.Models.dll
-C:\Users\KRISTIAN\source\repos\TvProgram\TvProgram.Models\bin\Debug\netcoreapp3.1\TvProgram.Models.pdb
-C:\Users\KRISTIAN\source\repos\TvProgram\TvProgram.Models\obj\Debug\netcoreapp3.1\TvProgram.Models.AssemblyInfoInputs.cache
-C:\Users\KRISTIAN\source\repos\TvProgram\TvProgram.Models\obj\Debug\netcoreapp3.1\TvProgram.Models.AssemblyInfo.cs
-C:\Users\KRISTIAN\source\repos\TvProgram\TvProgram.Models\obj\Debug\netcoreapp3.1\TvProgram.Models.csproj.CoreCompileInputs.cache
-C:\Users\KRISTIAN\source\repos\TvProgram\TvProgram.Models\obj\Debug\netcoreapp3.1\TvProgram.Models.dll
-C:\Users\KRISTIAN\source\repos\TvProgram\TvProgram.Models\obj\Debug\netcoreapp3.1\TvProgram.Models.pdb
-C:\Users\KRISTIAN\source\repos\TvProgram\TvProgram.Models\obj\Debug\netcoreapp3.1\TvProgram.Models.csprojAssemblyReference.cache
