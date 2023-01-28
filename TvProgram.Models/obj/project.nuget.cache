@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fFHHHTE/ZLFN8RCoZ0OVkmWjfcC58zVbgxqe8SWWk8EMxOx9226Fcz4KG7+zQHOJC4K1gyyFrJZZUu0ply7Q/A==",
+  "success": true,
+  "projectFilePath": "F:\\Users\\KRISTIAN\\source\\repos\\TvProgram\\TvProgram.Models\\TvProgram.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIKI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\KIKI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\KIKI\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
